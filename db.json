@@ -2,7 +2,7 @@
   "pokemon": [{
     "id": 1,
     "num": "001",
-    "name": "ราศีเมษ",
+    "name": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_1.2.png,
     "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_1.1.png",
     "type": [
       "สีแดงเลือด"
