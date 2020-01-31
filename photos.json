@@ -20,7 +20,7 @@
     "albumId": 1,
     "id": 3,
     "title": "เบลดมาสเตอร์",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "https://asura.gameindy.com/wiki/images/b/bf/BLADEMASTER.png",
     "data": "ดาบคือส่วนหนึ่งของร่างกายข้า แม้ข้าจะไม่มีลมหายใจ ดาบก็จะไม่มีวันหลุดจากมือข้าเด็ดขาด : คืออาชีพนักสู้ที่ฝึกฝนตนเองตามวิธีแห่งจอมดาบ ใช้อาวุธประเภท ดาบและดาบใหญ่เป็นอาชีพที่พัฒนามาจา อาชีพไฟเตอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_3.1.png"
   },
@@ -28,7 +28,7 @@
     "albumId": 1,
     "id": 4,
     "title": "แอสแซสซิน",
-    "url": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_4.1.png",
+    "url": "https://asura.gameindy.com/wiki/index.php/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:ASSASIN.png",
     "data": "มือสังหารเป็นเพียงแค่ชื่อแต่เราเป็นมากกว่านั้นคุณอยากลองสัมผัสดูไหม : คืออาชีพมือสังหาร ใช้อาวุธประเภท มีดสั้น มีดบิน ระเบิดบอล และดาวกระจายและยาพิษต่างๆ เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_4.1.png"
   },
@@ -36,7 +36,7 @@
     "albumId": 1,
     "id": 5,
     "title": "ชาร์ปชูตเตอร์",
-    "url": "https://via.placeholder.com/600/f66b97",
+    "url": "https://asura.gameindy.com/wiki/images/5/5c/SHARPSHOOTER.png",
     "data": "ความแม่นยำยังไม่เพียงพอต้องมีสมาธิที่ดีเลิศด้วย : คืออาชีพนักแม่นธนู ใช้อาวุธประเภทธนู เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_5.1.png"
   },
@@ -44,7 +44,7 @@
     "albumId": 1,
     "id": 6,
     "title": "เทรเชอร์ฮันเตอร์",
-    "url": "https://via.placeholder.com/600/56a8c2",
+    "url": "https://asura.gameindy.com/wiki/images/0/06/TREASUREHUNTER.png",
     "data": "ข้าไม่ต้องการสิ่งใดทั้งนั้น เพราะโชคอยู่ข้างข้าเสมอ : คืออาชีพนักล่าสมบัติ ใช้อาวุธได้หลากหลาย เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_6.1.png"
   },
@@ -52,7 +52,7 @@
     "albumId": 1,
     "id": 7,
     "title": "วิซาร์ด",
-    "url": "https://via.placeholder.com/600/b0f7cc",
+    "url": "https://asura.gameindy.com/wiki/images/5/5c/WIZARD.png",
     "data": "ข้าเป็นผู้ชำนาญเวททุกธาตุ ความสามารถข้าสามารถทำลายได้ทุกสิ่ง : คือผู้ใช้เวทมนต์ขั้นสูง สามารถใช้เวทเพื่อทำลายล้าง สามารถทำลายล้างศัตรูได้ในการโจมตีเพียงครั้งเดียว และเป็นอาชีพที่พัฒนามาจากอาชีพแคสเตอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_7.1.png"
   },
@@ -60,7 +60,7 @@
     "albumId": 1,
     "id": 8,
     "title": "เคลริค",
-    "url": "https://via.placeholder.com/600/54176f",
+    "url": "https://asura.gameindy.com/wiki/images/9/9a/CLERIC.png",
     "data": "ด้วยศรัทธาแห่งลูซิส ข้าจะทำให้โลกนี้สงบสุข : คืออาชีพนักบวช เป็นผู้ศรัทธาแห่งเทพลูซิส เป็นผู้ช่วยเหลือและสนับสนุนพวกพ้องเป็นอาชีพที่ถูกพัฒนามาจากอาชีพแตสเตอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_8.1.png"
   },
@@ -68,7 +68,7 @@
     "albumId": 1,
     "id": 9,
     "title": "วอร์ลอค",
-    "url": "https://via.placeholder.com/600/51aa97",
+    "url": "https://asura.gameindy.com/wiki/index.php/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:WARLOCK.png",
     "data": "ศัตรูของเราต้องพินาศด้วยคำสาปของเรา : คืออาชีพนักเวทย์ด้านความมืด ผู้ชำนาญการใช้เวทย์มนต์คำสาป และสัตว์อัญเชิญ วอร์ลอดเป็นอาชีพที่พัฒนามาจากอาชีพแคสเตอร์",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_9.1.png"
   },
@@ -76,7 +76,7 @@
     "albumId": 1,
     "id": 10,
     "title": "เซนจูเรี่ยน",
-    "url": "https://via.placeholder.com/600/810b14",
+    "url": "https://asura.gameindy.com/wiki/images/a/ae/CENTURION.png",
     "data": "คุณสนใจที่จะเป็นส่วนหนึ่งของกองทัพหรือไม่ : คืออาชีพทหาร ใช้อาวุธประเภท กระบี่ ปืน และระเบิดชนิดต่างๆ เซนจูเรี่ยนพัฒนามาจาก อาชีพคาเดท",
     "thumbnailUrl": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_10.1.png"
   }
