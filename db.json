@@ -2,14 +2,14 @@
   "pokemon": [{
     "id": 1,
     "num": "001",
-    "name": "เบอร์เซอร์เกอร์",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_1.1.png",
+    "name": "สายฝนแห่งความมืด",
+    "img": "https://asura.gameindy.com/wiki/images/7/74/Gameicon449.gif",
     "type": [
       "สีแดงเลือด"
     ],
-    "height": "ข้าศรัทธาในพละกำลังของข้าเท่านั้น กำลังคือทุกสิ่ง",
-    "weight": "อาชีพนักรบคลุ้มคลั่งใช้อาวุธประเภท ขวานเล็ก ขวานใหญ่ และดาบใหญ่",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : โจมตีบนพื้นที่ระยะ : 16 ช่อง",
+    "weight": "ความสามารถ : โจมตีด้วยเวทมืดบนพื้นที่มีพลังโจมตี 150%",
+    "candy": "ระยะหลังใช้ : 30 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
