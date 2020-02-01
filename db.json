@@ -56,14 +56,14 @@
   },{
     "id": 3,
     "num": "003",
-    "name": "เบลดมาสเตอร์",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_3.1.png",
+    "name": "แรงโน้มถ่วง",
+    "img": "https://asura.gameindy.com/wiki/images/e/e2/Gameicon671.gif",
     "type": [
      "สีเหลืองอมส้ม","สีท้องฟ้า"
     ],
-    "height": "ดาบคือส่วนหนึ่งของร่างกายข้า แม้ข้าจะไม่มีลมหายใจ ดาบก็จะไม่มีวันหลุดจากมือข้าเด็ดขาด",
-    "weight": "คืออาชีพนักสู้ที่ฝึกฝนตนเองตามวิธีแห่งจอมดาบ ใช้อาวุธประเภท ดาบและดาบใหญ่เป็นอาชีพที่พัฒนามาจา อาชีพไฟเตอร์",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : โจมตีบนพื้นที่",
+    "weight": "ความสามารถ : โจมตีเวทเป็นธาตุทั่วไป - เป้าหมายเป็นผู้เล่น จะทำความเสียหายโดยคิดน้ำหนักของเป้าหมาย",
+    "candy": "ระยะหลังร่าย : 1 นาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -83,14 +83,14 @@
   },{
     "id": 4,
     "num": "004",
-    "name": "แอสแซสซิน",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_4.1.png",
+    "name": "แสงแห่งเทพ",
+    "img": "https://asura.gameindy.com/wiki/images/b/bf/Gameicon691.gif",
     "type": [
       "สีเขียว","สีเทาเงิน","สีขาว"
     ],
-    "height": "มือสังหารเป็นเพียงแค่ชื่อแต่เราเป็นมากกว่านั้นคุณอยากลองสัมผัสดูไหม",
-    "weight": "คืออาชีพมือสังหาร ใช้อาวุธประเภท มีดสั้น มีดบิน ระเบิดบอล และดาวกระจายและยาพิษต่างๆ เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : โจมตีรอบตัวผู้ใช้",
+    "weight": "ความสามารถ : ผลักเป้าหมายออกจากตัวผู้ใช้",
+    "candy": "ระยะหลังร่าย : 30 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -110,14 +110,14 @@
   },{
     "id": 5,
     "num": "005",
-    "name": "ชาร์ปชูตเตอร์",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_5.1.png",
+    "name": "เสาวิญญาณ",
+    "img": "https://asura.gameindy.com/wiki/images/b/b7/Gameicon718.gif",
     "type": [
       "สีทอง","สีส้ม","สีเหลือง"
     ],
-    "height": "ความแม่นยำยังไม่เพียงพอต้องมีสมาธิที่ดีเลิศด้วย",
-    "weight": "คืออาชีพนักแม่นธนู ใช้อาวุธประเภทธนู เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : อัญเชิญ",
+    "weight": "ความสามารถ : อัญเชิญเสาวิญญาณมาเพื่อล่อให้มอนสเตอร์มาโจมตี และเอา MP ของศัตรูที่อยู่รอบเสาไปโจมตีเจ้าของ",
+    "candy": "ระยะหลังร่าย : 30 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -137,14 +137,14 @@
   },{
     "id": 6,
     "num": "006",
-    "name": "เทรเชอร์ฮันเตอร์",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_6.1.png",
+    "name": "เนตรแห่งความคลั่ง",
+    "img": "https://asura.gameindy.com/wiki/images/2/2b/Gameicon562.gif",
     "type": [
       "สีเหลือง","สีของท้องฟ้า"
     ],
-    "height": "ข้าไม่ต้องการสิ่งใดทั้งนั้น เพราะโชคอยู่ข้างข้าเสมอ",
-    "weight": "คืออาชีพนักล่าสมบัติ ใช้อาวุธได้หลากหลาย เป็นอาชีพที่พัฒนามาจากอาชีพเรนเจอร์",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : เพิ่มความสามารถให้ผู้ใช้",
+    "weight": "ความสามารถ : เพิ่มความแม่นยำและการป้องกัน เป็นระยะเวลา 20 วินาที",
+    "candy": "ระยะหลังใช้ : 45 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -164,14 +164,14 @@
   },{
     "id": 7,
     "num": "007",
-    "name": "วิซาร์ด",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_7.1.png",
+    "name": "สมาธิขั้นสูง",
+    "img": "https://asura.gameindy.com/wiki/images/8/87/Gameicon281.gif",
     "type": [
       "สีชมพูโทนพาสเทล","สีฟ้า"  
     ],
-    "height": "ข้าเป็นผู้ชำนาญเวททุกธาตุ ความสามารถข้าสามารถทำลายได้ทุกสิ่ง",
-    "weight": "คือผู้ใช้เวทมนต์ขั้นสูง สามารถใช้เวทเพื่อทำลายล้าง สามารถทำลายล้างศัตรูได้ในการโจมตีเพียงครั้งเดียว และเป็นอาชีพที่พัฒนามาจากอาชีพแคสเตอร์ ",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : เปิด/ปิด",
+    "weight": "ความสามารถ : เมื่อเปิดจะได้รับอัตราโจมตีทั้งต่ำสุด และสูงสุด และความแม่นยำ แต่จะเสีย MP 5 ทุก ๆ 2.5 วินาที ",
+    "candy": "ระยะหลังใช้ : 3 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -191,14 +191,14 @@
   },{
     "id": 8,
     "num": "008",
-    "name": "เคลริค",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_8.1.png",
+    "name": "พันธมิตรแห่งเงา",
+    "img": "https://asura.gameindy.com/wiki/images/e/ef/Gameicon673.gif",
     "type": [
       "สีดำ","สีน้ำตาลแดง","สีเทาถ่าน"
     ],
-    "height": "ด้วยศรัทธาแห่งลูซิส ข้าจะทำให้โลกนี้สงบสุข",
-    "weight": "คืออาชีพนักบวช เป็นผู้ศรัทธาแห่งเทพลูซิส เป็นผู้ช่วยเหลือและสนับสนุนพวกพ้องเป็นอาชีพที่ถูกพัฒนามาจากอาชีพแตสเตอร์ ",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : เปิด/ปิด",
+    "weight": "ความสามารถ : เพิ่มความสามารถของทักษะหลบหลีกไร้ลักษณ์ ซึ่งจะหนีไปข้างหลัง 4 ช่อง หลังจากนั้นจะหายตัว 2 วินาที",
+    "candy": "ระยะหลังเปิด : 1 นาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
@@ -216,61 +216,6 @@
     }, {
       "num": "008",
       "name": "ดาวอังคาร"
-    }]
-  },{
-    "id": 9,
-    "num": "009",
-    "name": "วอร์ลอค",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_9.1.png",
-    "type": [
-     "สีบรอนซ์","สีฟ้าเดนิม"," สีคราม","สีแดง"
-    ],
-    "height": "ศัตรูของเราต้องพินาศด้วยคำสาปของเรา",
-    "weight": "คืออาชีพนักเวทย์ด้านความมืด ผู้ชำนาญการใช้เวทย์มนต์คำสาป และสัตว์อัญเชิญ วอร์ลอดเป็นอาชีพที่พัฒนามาจากอาชีพแคสเตอร์",
-    "candy": "Bulbasaur Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.69,
-    "avg_spawns": 69,
-    "spawn_time": "20:00",
-    "multipliers": [1.58],
-    "weaknesses": [
-      "หน่อไม้ฝรั่ง",
-      "ผลไม้แห้ง",
-      "เกาลัด",
-      "ถั่วเหลือง"
-    ],
-    "next_evolution": [{
-      "num": "009",
-      "name": "ดาวพฤหัส"
-    }]
-  },{
-    "id": 10,
-    "num": "010",
-    "name": "เซนจูเรี่ยน",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_10.1.png",
-    "type": [
-      "สีดำ","สีเอิร์ธโทน",
-      "สีส้ม"
-    ],
-    "height": "คุณสนใจที่จะเป็นส่วนหนึ่งของกองทัพหรือไม่",
-    "weight": "คืออาชีพทหาร ใช้อาวุธประเภท กระบี่ ปืน และระเบิดชนิดต่างๆ เซนจูเรี่ยนพัฒนามาจาก อาชีพคาเดท ",
-    "candy": "Bulbasaur Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.69,
-    "avg_spawns": 69,
-    "spawn_time": "20:00",
-    "multipliers": [1.58],
-    "weaknesses": [
-      "ต้นเอลเดอร์",
-      "ดอกเบอร์ดอค",
-      "ต้นยู",
-      "ต้นวีปปิงวิลโลว์"
-    ],
-    "next_evolution": [{
-      "num": "010",
-      "name": "ดาวเสาร์"
     }]
   }
              ]
