@@ -29,14 +29,14 @@
   }, {
     "id": 2,
     "num": "002",
-    "name": "พาลาดิน",
-    "img": "https://raw.githubusercontent.com/nuttawatso/nuttyjson/master/Change_color_2.1.png",
+    "name": "เสาอัคคี",
+    "img": "https://asura.gameindy.com/wiki/images/6/64/Gameicon238.gif",
     "type": [
       "สีชมพู","สีฟ้า"
     ],
-    "height": "ด้วยศรัทธาอันแรงกล้าแห่งเทพลูซิส ชีวิตและจิตวิญญาณนี้ข้าขอถวายให้พระองค์แต่เพียงผู้เดียว",
-      "weight": "นักรบศักดิ์สิทธิ์ผู้ศรัทธาแห่งเทพลูซิส ใช้อาวุธประเภทกระบี่และหอก",
-    "candy": "Bulbasaur Candy",
+    "height": "รูปแบบ : โจมตีบนพื้นที่เป็นเส้นทาง",
+     "weight": "ความสามารถ : โจมตีด้วยเวทธาตุไฟ",
+    "candy": "ระยะหลังร่าย : 5 วินาที",
     "candy_count": 25,
     "egg": "2 km",
     "spawn_chance": 0.69,
